@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "task": "What is 15% of 240?",
+    "answer": "36",
+    "type": "math"
+  },
+  {
+    "id": 2,
+    "task": "What is the capital of France?",
+    "answer": "Paris",
+    "type": "lookup"
+  },
+  {
+    "id": 3,
+    "task": "Calculate: (17 * 23) + 45",
+    "answer": "436",
+    "type": "math"
+  },
+  {
+    "id": 4,
+    "task": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "type": "lookup"
+  },
+  {
+    "id": 5,
+    "task": "If I buy 3 items at $12.50 each, what's the total?",
+    "answer": "37.5",
+    "type": "math"
+  },
+  {
+    "id": 6,
+    "task": "What is the chemical symbol for gold?",
+    "answer": "Au",
+    "type": "lookup"
+  },
+  {
+    "id": 7,
+    "task": "What is 20% of 85?",
+    "answer": "17",
+    "type": "math"
+  },
+  {
+    "id": 8,
+    "task": "What is the capital of Germany?",
+    "answer": "Berlin",
+    "type": "lookup"
+  },
+  {
+    "id": 9,
+    "task": "Calculate the square root of 144",
+    "answer": "12",
+    "type": "math"
+  },
+  {
+    "id": 10,
+    "task": "How many planets are in our solar system?",
+    "answer": "8",
+    "type": "lookup"
+  },
+  {
+    "id": 11,
+    "task": "A shirt costs $60 and is 25% off. What's the sale price?",
+    "answer": "45",
+    "type": "math"
+  },
+  {
+    "id": 12,
+    "task": "What is the capital of Brazil?",
+    "answer": "Brasilia",
+    "type": "lookup"
+  },
+  {
+    "id": 13,
+    "task": "Calculate: 156 / 12",
+    "answer": "13",
+    "type": "math"
+  },
+  {
+    "id": 14,
+    "task": "What is the chemical symbol for water?",
+    "answer": "H2O",
+    "type": "lookup"
+  },
+  {
+    "id": 15,
+    "task": "If a recipe serves 4 and I need to serve 10, what multiplier do I use?",
+    "answer": "2.5",
+    "type": "math"
+  },
+  {
+    "id": 16,
+    "task": "What is the capital of Italy?",
+    "answer": "Rome",
+    "type": "lookup"
+  },
+  {
+    "id": 17,
+    "task": "What is 8 squared plus 6 squared?",
+    "answer": "100",
+    "type": "math"
+  },
+  {
+    "id": 18,
+    "task": "What is the boiling point of water in Celsius?",
+    "answer": "100",
+    "type": "lookup"
+  },
+  {
+    "id": 19,
+    "task": "Calculate 15% tip on a $67 bill",
+    "answer": "10.05",
+    "type": "math"
+  },
+  {
+    "id": 20,
+    "task": "What is the capital of Canada?",
+    "answer": "Ottawa",
+    "type": "lookup"
+  },
+  {
+    "id": 21,
+    "task": "What is 1000 divided by 8?",
+    "answer": "125",
+    "type": "math"
+  },
+  {
+    "id": 22,
+    "task": "What is the largest country in the world by area?",
+    "answer": "Russia",
+    "type": "lookup"
+  },
+  {
+    "id": 23,
+    "task": "A car travels 240 miles in 4 hours. What's the average speed in mph?",
+    "answer": "60",
+    "type": "math"
+  },
+  {
+    "id": 24,
+    "task": "How many hours are in a day?",
+    "answer": "24",
+    "type": "lookup"
+  },
+  {
+    "id": 25,
+    "task": "What is 33% of 300?",
+    "answer": "99",
+    "type": "math"
+  }
+]
