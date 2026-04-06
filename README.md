@@ -42,14 +42,14 @@ Inspired by [karpathy/autoresearch](https://github.com/karpathy/autoresearch).
 
 ## Quick Start
 
-**Requirements:** Python 3.10+, [uv](https://docs.astral.sh/uv/), `claude` or `pi` CLI.
+**Requirements:** Python 3.10+, `claude` or `pi` CLI.
 
 ```bash
 # Install
-uv sync
+pip install cevolve
 
-# Run evolution (primary CLI for humans)
-uv run cevolve run --target examples/sorting/train.py --metric time_ms --llm pi
+# Run evolution
+cevolve run --target train.py --metric time_ms --llm pi
 ```
 
 ---
